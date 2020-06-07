@@ -1,0 +1,55 @@
+
+.navbar-brand {
+  font-family: 'Righteous', cursive;
+}
+.bg-color {
+  background: url(./images/f97929bceaaa250c185431d560b96d33.jpg);
+}
+
+.navbar-collapse, .profile-username, .subscribe-btn {
+  font-family: 'Acme', sans-serif;
+}
+
+.card-link, .btn-link {
+  color:red;
+}
+
+.card-body p img {
+  width: 100%;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.input-group-text {
+  width: 37px;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.navbar-icon-top .navbar-nav .nav-link > .fa {
+  position: relative;
+  width: 36px;
+  font-size: 24px;
+}
+
+.navbar-icon-top .navbar-nav .nav-link > .fa > .badge {
+  font-size: 0.75rem;
+  position: absolute;
+  right: 0;
+  font-family: sans-serif;
+}
+
+.navbar-icon-top .navbar-nav .nav-link > .fa {
+  top: 3px;
+  line-height: 12px;
+}
+
+.navbar-icon-top .navbar-nav .nav-link > .fa > .badge {
+  top: -10px;
+}
+
+
